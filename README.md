@@ -171,7 +171,7 @@ In the **Clock Model** and **Prior** tabs, we do not need to change any of the d
 
 <figure>
 	<a id="fig:beastRun"></a>
-	<img style="width:50.0%;" src="figures/beastRun.png" alt="">
+	<img style="width:80.0%;" src="figures/beastRun.png" alt="">
 	<figcaption>Figure 4: Running the analysis in BEAST.</figcaption>
 </figure>
 <br>
